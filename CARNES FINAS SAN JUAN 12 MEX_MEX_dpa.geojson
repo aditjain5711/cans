@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1177265,
+          25.7774082
+        ]
+      },
+      "properties": {
+        "ref": 14822090481440232989,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Blvrd Aeropuerto 48,",
+        "addr:street": "Cd Apodaca,N.L.,Aeropuerto",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "66629",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528110888059",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3157132,
+          25.731901
+        ]
+      },
+      "properties": {
+        "ref": 17490185627584625614,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Av. Manuel L. Barrag\u00e1n 6400, An\u00e1huac, 66450 San Nicol\u00e1s de los Garza, N.L., M\u00e9xico",
+        "addr:street": "San Nicol\u00e1s de los Garza, N.L.,Anahuac",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "66450",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183766569",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2706056,
+          25.6396871
+        ]
+      },
+      "properties": {
+        "ref": 9111874511624936104,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Prolongaci\u00f3n, Av. Alfonso Reyes 4561, Villa del R\u00edo, 64850 Monterrey, N.L., Mexico",
+        "addr:street": "Villa del R\u00edo,Monterrey,N.L.,Contry",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "64850",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183656555",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3504782,
+          25.7161148
+        ]
+      },
+      "properties": {
+        "ref": 5541329071210989804,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Av Ra\u00fal Rangel Fr\u00edas 316, Cumbres 2o. Sector Secc C, 64610 Monterrey, N.L., M\u00e9xico",
+        "addr:street": "Sector Secc C,Monterrey,N.L.,Cumbres",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "64180",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183738973",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2309484,
+          25.6797613
+        ]
+      },
+      "properties": {
+        "ref": 7450192848145148018,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Av. Gral. L\u00e1zaro C\u00e1rdenas 420,El Sabino, 67150 Guadalupe, N.L., M\u00e9xico",
+        "addr:street": "El Sabino,N.L.,Guadalupe",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "67150",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183985288",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2019589,
+          25.7219918
+        ]
+      },
+      "properties": {
+        "ref": 4204570685517947877,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Blvd. Acapulco 1100, Santa Fe Norte-poniente, 67117 Guadalupe, N.L., M\u00e9xico",
+        "addr:street": "N.L.,Guadalupe,LA FE",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "67117",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183419114",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.246565,
+          25.576613
+        ]
+      },
+      "properties": {
+        "ref": 842454397906633986,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "M\u00e9xico 85, Villas La Rioja, 64988 Monterrey, N.L., Mexico",
+        "addr:street": "Villas La Rioja,Monterrey,LA RIOJA",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "64988",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528104130506",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2535666,
+          25.6896729
+        ]
+      },
+      "properties": {
+        "ref": 4256115908039525161,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Av. Miguel Alem\u00e1n 108, Libertad, 67130 Guadalupe, N.L., Mexico",
+        "addr:street": "Libertad,Guadalupe, N.L.,Linda Vista",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "67130",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183790402",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2834467,
+          25.7680901
+        ]
+      },
+      "properties": {
+        "ref": 3491244578593390540,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Avenida Sendero Norte 300, San Nicol\u00e1s de los Garza, Cedeco, 66427 Monterrey, N.L., Mexico",
+        "addr:street": "Cedeco,Monterrey, N.L.,Sendero",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "66427",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528181055155",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3911523,
+          25.658267
+        ]
+      },
+      "properties": {
+        "ref": 1082035124248975558,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Av. Jos\u00e9 Vasconcelos 1409, Los Sabinos, 66226 Monterrey, N.L., Mexico",
+        "addr:street": "Los Sabinos,Monterrey, N.L.,Valle",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "66226",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528183366161",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4271162,
+          25.6747461
+        ]
+      },
+      "properties": {
+        "ref": 17928735378646398623,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Branch Santa Catarina, Carr. Monterrey - Saltillo 120, La Fama, 66150 Monterrey, N.L., Mexico",
+        "addr:street": "La Fama,Monterrey, N.L.,Santa Catarina",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "66150",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528147370464",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4120342,
+          25.7656411
+        ]
+      },
+      "properties": {
+        "ref": 14006654006916869588,
+        "brand": "Carnes Finas San Juan",
+        "chain_name": "Specialty store,Butcher",
+        "chain_id": "27383",
+        "@spider": "chain",
+        "name": "Carnes Finas San Juan",
+        "addr:full": "Lincoln, Residencial Puerta de Hierro, 64346 Monterrey, N.L., Mexico",
+        "addr:street": "Puerta de Hierro,Monterrey, N.L.,Lincoln",
+        "addr:city": "Monterrey",
+        "addr:state": "N.L.",
+        "addr:postcode": "64346",
+        "addr:country": "Mexico",
+        "operatingHours": "8 AM - 9 PM",
+        "phones": "+528111676100",
+        "website": "https://www.carnessanjuan.com/"
+      }
+    }
+  ]
+}
